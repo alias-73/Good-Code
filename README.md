@@ -11,7 +11,7 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
