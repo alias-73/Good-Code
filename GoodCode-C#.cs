@@ -1,7 +1,7 @@
  
  
- // TextBox : محدود کردن به حروف عددی
- // TextBox : limitToNumericLetters
+ // #TextBox : {محدود کردن به حروف عددی},{limitToNumericLetters}
+
  private void NumericTextBox_KeyPress(object sender, KeyPressEventArgs e)
  {
      // Check if the pressed key is a digit, Backspace, or Delete
@@ -11,8 +11,8 @@
      }
  }
 
-// TextBox : جدا کردن 3 رقم 3 رقم 
-// TextBox : Separate 3 digits 3 digits
+// #TextBox : {جدا کردن 3 رقم 3 رقم },{Separate 3 digits 3 digits}
+
    private void FormatSelectText(TextBox textBox)
   {
       if (string.IsNullOrEmpty(textBox.Text) || textBox.Text == "0")
@@ -27,8 +27,7 @@
   }
 
 
-//Label : جدا کردن 3 رقم 3 رقم
-//Label : Separate 3 digits 3 digits
+// #Label : {جدا کردن 3 رقم 3 رقم},{Separate 3 digits 3 digits}
   private void FormatLabelText(Label label)
   {
       if (string.IsNullOrEmpty(label.Text) || label.Text == "0")
