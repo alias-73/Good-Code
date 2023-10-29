@@ -55,7 +55,7 @@ We would like to express our gratitude to the open-source community and the auth
 
 ## Support
 
-If you encounter any issues or have questions, please visit our [Issue Tracker](https://github.com/yourusername/Good-Code/issues) for assistance.
+If you encounter any issues or have questions, please visit our [Issue Tracker](https://github.com/seyedhosseinsz/Good-Code/issues) for assistance.
 
 ## Roadmap
 
@@ -68,7 +68,35 @@ Our future plans for this project include:
 
 Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to maintain a respectful and inclusive environment for all contributors and users.
 
-## How to Cite
 
-If you use this project for academic or research purposes, please cite it as:
+## Donations
+
+If you find "Good-Code" helpful and wish to support its development, you can donate [here](https://www.example.com/donate).
+
+## Version History
+
+- Keep track of the version history in the [CHANGELOG.md](CHANGELOG.md) file.
+
+## Authors
+
+- [Seyed Hossein Sadegh Zade](https://github.com/seyedhosseinsz)
+
+## Keywords
+
+programming, code, examples, learning
+
+## Credits
+
+- Credits to any individuals or organizations that have significantly contributed to this project.
+
+
+## Troubleshooting
+
+If you encounter any issues, check the [TROUBLESHOOTING.md](TROUBLESHOOTING.md) file for help.
+
+## Sponsors
+
+We appreciate the support of our sponsors:
+
+- [Aina Development](https://www.ainaco.ir)
 
