@@ -43,15 +43,11 @@ We welcome contributions from the community to make "Good-Code" even better. To 
 5. Push your changes to your fork: `git push origin feature-name`
 6. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions, suggestions, or issues related to "Good-Code," feel free to contact us:
 
-- [Your Name](mailto:your@email.com)
+- [Seyed Hossein Sadegh Zade](mailto:seyedhossein.sz@outlook.com)
 
 ## Acknowledgments
 
