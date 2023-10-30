@@ -80,6 +80,7 @@ If you find "Good-Code" helpful and wish to support its development, you can don
 ## Authors
 
 - [Seyed Hossein Sadegh Zade](https://github.com/seyedhosseinsz)
+- [AliAsghar Akhavan Mahdavi](https://github.com/alias-73)
 
 ## Keywords
 
